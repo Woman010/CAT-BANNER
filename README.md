@@ -1,4 +1,4 @@
-# NAME SCRIPT : CAT-BANEER/ᐠ_ ꞈ _ᐟ\ɴʏᴀ~
+### NAME SCRIPT : CAT-BANEER/ᐠ_ ꞈ _ᐟ\ɴʏᴀ~
 # SUPPORT : TERMUX, KAIL LINUX
 ## HOW TO INSTALL/ᐠ｡‸｡ᐟ\
 ```
