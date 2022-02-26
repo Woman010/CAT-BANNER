@@ -6,10 +6,10 @@ INSTALL() {
        apt-get update -yq --silent
        apt-get upgrade -yq --silent
        pip3 install lolcat -q
-       rm $HOME/../usr/etc/bash.bashrc
-       rm $HOME/../usr/etc/motd
+       rm $HOME/../usr/etc/bash.bashrc 
+       rm $HOME/../usr/etc/motd 
        mv bash.bashrc $HOME/../usr/etc
-       mv banner.txt $HOME/../usr/etc
+       mv banner.txt $HOME
 }
 clear
 echo
