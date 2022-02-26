@@ -4,7 +4,9 @@
 ```
 apt-get update -y;apt-get upgrade -y
 ```
+```
 apt-get install git -y
+```
 ```
 git clone https://github.com/Woman010/CAT-BANNER
 ```
