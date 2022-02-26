@@ -24,5 +24,5 @@ if [ -x @TERMUX_PREFIX@/libexec/termux/command-not-found ]; then
 fi
 clear
 echo
-cat "banner.txt" | lolcat
+cat $HOME/"banner.txt" | lolcat
 echo
